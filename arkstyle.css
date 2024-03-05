@@ -1094,6 +1094,31 @@ button.enter-button {
 .disclaimer-box p {
     font-size: 16px;
 }
+.disclaimer-box {
+    background: black;
+}
+
+.disclaimer-box h2 {
+    color: red;
+    font-family: 'Gochi Hand';
+}
+.disclaimer-box p {
+    color: white;
+    font-family: 'Gochi Hand';
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.disclaimer-box button {
+    background: red !important;
+    color: white;
+    border-radius: 35px;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    font-family: 'Gochi Hand';
+    text-transform: uppercase;
+}
 @media (max-width: 480px) {
     button.enter-button {
         padding: 10px 25px;
