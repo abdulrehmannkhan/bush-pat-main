@@ -1006,3 +1006,13 @@ p.txt3 strong {
     border-radius: 15px;
     padding: 2px 15px;
 }
+.txt3boxx video {
+    height: 350px !important;
+    width: 350px !important;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.txt3boxx {
+    padding-bottom: 29px;
+}
