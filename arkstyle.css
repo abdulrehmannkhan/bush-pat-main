@@ -756,7 +756,7 @@ img.logoo {
     align-items: center;
     justify-content: center;
     margin: 0 7px;
-    margin-top: -320px;
+    margin-top: -70px;
     z-index: 99;
 }
 
@@ -1015,4 +1015,19 @@ p.txt3 strong {
 
 .txt3boxx {
     padding-bottom: 29px;
+}
+.txt3secc a {
+    background: #00ff9a;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 6px 20px;
+    font-family: cursive;
+}
+
+.txt3boxx {
+    margin-bottom: 40px;
 }
