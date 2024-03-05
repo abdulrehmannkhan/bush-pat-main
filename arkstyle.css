@@ -1034,3 +1034,7 @@ p.txt3 strong {
 .txt3boxx {
     margin-bottom: 40px;
 }
+
+body{
+    cursor: url('1\ \(3\).png');
+}
