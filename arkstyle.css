@@ -966,3 +966,43 @@ p.txt2 {
     width: 30%;
     margin: 0 auto;
 }
+
+.txt3secc {
+    width: 100%;
+    margin: 0 auto;
+}
+
+h3.hedd3 {
+    text-transform: uppercase;
+    font-family: 'Gochi Hand';
+    font-size: 52px;
+    margin-bottom: 0;
+}
+
+h3.hedd3 span {
+    background-image: linear-gradient(270deg, rgb(0, 255, 154) 0%, rgb(240, 0, 255) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p.txt3 {
+    
+    font-size: 20px;
+    line-height: 31px;
+    font-family: 'Comic Neue';
+    animation: blink1 1s infinite;
+}
+
+p.txt3 strong {
+    text-transform: capitalize;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.txt3boxx {
+    background: white;
+    margin: 0;
+    width: 6%;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 2px 15px;
+}
