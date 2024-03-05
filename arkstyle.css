@@ -987,10 +987,13 @@ h3.hedd3 span {
 
 p.txt3 {
     
-    font-size: 20px;
-    line-height: 31px;
-    font-family: 'Comic Neue';
-    animation: blink1 1s infinite;
+font-size: 20px;
+    
+line-height: 31px;
+    
+font-family: 'Gochi Hand';
+    
+animation: blink1 1s infinite;
 }
 
 p.txt3 strong {
