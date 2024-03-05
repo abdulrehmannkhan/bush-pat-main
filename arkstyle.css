@@ -1047,7 +1047,13 @@ button.enter-button {
     font-size: 30px;
     padding: 11px 34px;
 }
+.btnscntainer a {
+    background: red;
+}
 
+.txt3secc a {
+    background: red;
+}
 @media (max-width: 480px) {
     button.enter-button {
         padding: 10px 25px;
