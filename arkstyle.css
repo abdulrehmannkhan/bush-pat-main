@@ -1041,8 +1041,18 @@ body{
 #progress {
     background: red !important;
 }
+button.enter-button {
+    background: black;
+    border-radius: 35px;
+    font-size: 30px;
+    padding: 11px 34px;
+}
 
 @media (max-width: 480px) {
+    button.enter-button {
+        padding: 10px 25px;
+        font-size: 20px !important;
+    }
     p.txt2 {
         font-size: 37px;
     }
@@ -1075,7 +1085,9 @@ body{
     .txt3boxx {
         width: 2%;
     }
-    .enter-button {
-        font-size: 40px !important;
+    
+    .btnscntainer {
+        width: 2%;
+        margin: 0 auto;
     }
 }
