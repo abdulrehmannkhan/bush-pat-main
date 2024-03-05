@@ -810,3 +810,19 @@ p.txt2 {
 .contractadrs {
     margin-top: -40px;
 }
+
+.btnscntainer a {
+    background: #00ff9a;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 6px 20px;
+    font-family: cursive;
+}
+
+.btnscntainer {
+    margin-top: 30px;
+}
