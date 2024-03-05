@@ -1161,4 +1161,19 @@ button.enter-button {
         width: 2%;
         margin: 0 auto;
     }
+    .disclaimer-box {
+        max-width: 95% !important;
+        padding: 6px 8px;
+    }
+    
+    .disclaimer-box p {
+        font-size: 12px;
+        line-height: 15px;
+        height: 70%;
+        overflow: auto;
+    }
+    
+    .disclaimer-box h2 {
+        font-size: 21px;
+    }
 }
