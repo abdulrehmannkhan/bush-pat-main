@@ -794,3 +794,19 @@ p.txt2 {
     font-weight: bold;
     font-family: 'Gochi Hand';
 }
+.contractadrs p {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 500;
+    font-family: 'circular';
+}
+
+.contractadrs p.addtitle {
+    text-transform: uppercase;
+}
+
+.contractadrs {
+    margin-top: -40px;
+}
